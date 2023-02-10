@@ -93,6 +93,4 @@ public class ContactOfPerson {
                 + city + ", state=" + state + ", email=" + email + ", zip=" + zip + ", phoneNumber=" + phoneNumber
                 + "]";
     }
-
-
 }
